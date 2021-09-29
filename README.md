@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kontadtomczuk
+- 👀 I’m interested in mobile iOS development
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me https://www.linkedin.com/in/konradtomczuk/
